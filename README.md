@@ -1,0 +1,1 @@
+A neural network based on YOLO, which recognizes the structural elements of wagons. Unfortunately, the files of the trained model did not fit into 25 MB, but you can run them on different versions of datasets and train them yourself.
